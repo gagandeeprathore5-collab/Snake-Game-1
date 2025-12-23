@@ -4,7 +4,7 @@ import random
 
 delay = 0.1
 
-score = 0
+score = 1
 high_score = 0
 
 def draw_gradient_bg(screen, width, height):
